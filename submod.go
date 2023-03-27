@@ -1,4 +1,4 @@
-package submod
+package dntesting
 
 import "fmt"
 
